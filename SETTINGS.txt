@@ -1,0 +1,6 @@
+; SETTINGS.txt
+; SETTINGS Details:
+;   TBD
+;
+[SETTINGS]
+TBD: False
