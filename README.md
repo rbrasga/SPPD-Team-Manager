@@ -70,6 +70,6 @@ Also, there's no such thing as a bad feature request.
 
 Roadmap and Milestones:
 ============================================
-	* January 2020 - Initial Commit
-	* April 2020 - Official Public Release
-	* June 2020 - Android Team Manager App
+   * January 2020 - Initial Commit
+   * April 2020 - Official Public Release
+   * June 2020 - Android Team Manager App
