@@ -1,6 +1,10 @@
 ; SETTINGS.txt
 ; SETTINGS Details:
-;   TBD
+;   BRACKET_DETAILS: Monitor and Upload Bracket Details
+;   UPGRADE_DETAILS: Monitor and Upload Team War Upgrade Details
+;   REQUEST_DETAILS: Monitor and Upload Card Requests
 ;
 [SETTINGS]
-TBD: False
+BRACKET_DETAILS: True
+UPGRADE_DETAILS: True
+REQUEST_DETAILS: True
