@@ -24,17 +24,18 @@ Current supported features:
      * who spends where
   * Track Team War Bracket Details
      * How many runs each team has and their current average score
+  * Track Card Requests
+     * Who is requesting which cards and when.
      
 Planned Features Before Beta Ends:
-  * Track Card Requests
-  * Auto-Accept team members based on Whitelist
-  * Auto-Reject team members based on Blacklist
+  * Auto-Accept/Reject team members based on Whitelist/Blacklist
   
 Planned Features After Beta Ends:
   * Team Wars History (Scores/Caps)
   * Track Weekend Event Participation
-  * Track Weekly Card Donations
+  * Track Weekly Card Donation Points
   * Track Card Donations (i.e. who donated what)
+  * Auto-Role Assignment after Auto-Accept
   * Let me know if there's another feature you want
   
 Known Issues:
