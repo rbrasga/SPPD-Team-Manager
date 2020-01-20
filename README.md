@@ -4,7 +4,7 @@ South Park Phone Destroyer Team Manager
 
 This content is in no way approved, endorsed, sponsored, or connected to South Park Digital Studios, Ubisoft, RedLynx, or associated/affiliated entities, nor are these entities responsible for this content.
 
-Current Version: v0.01 Beta
+Current Version: v1.09 Release Candidate
 
 Note: When this application is no longer in beta, a minimum 2$/month donation will be required. Or I simply can't afford the operating costs to provide this service.
 
@@ -26,16 +26,14 @@ Current supported features:
      * How many runs each team has and their current average score
   * Track Card Requests
      * Who is requesting which cards and when.
-     
-Planned Features Before Beta Ends:
   * Auto-Accept/Reject team members based on Whitelist/Blacklist
-  
+  * Auto-Role Assignment after Auto-Accept
+     
 Planned Features After Beta Ends:
   * Team Wars History (Scores/Caps)
   * Track Weekend Event Participation
   * Track Weekly Card Donation Points
   * Track Card Donations (i.e. who donated what)
-  * Auto-Role Assignment after Auto-Accept
   * Let me know if there's another feature you want
   
 Known Issues:
