@@ -3,8 +3,13 @@
 ;   BRACKET_DETAILS: Monitor and Upload Bracket Details
 ;   UPGRADE_DETAILS: Monitor and Upload Team War Upgrade Details
 ;   REQUEST_DETAILS: Monitor and Upload Card Requests
+;   AUTO_ACCEPT_REJECT: Monitor and Accept/Reject Team Applications
+;      - Based on your Team's Application Settings on SPPD Replay
+;   AUTO_ROLE_ASSIGN: Assign a role after the member is auto-accepted.
 ;
 [SETTINGS]
 BRACKET_DETAILS: True
 UPGRADE_DETAILS: True
 REQUEST_DETAILS: True
+AUTO_ACCEPT_REJECT: True
+AUTO_ROLE_ASSIGN: True
