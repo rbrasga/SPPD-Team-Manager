@@ -26,14 +26,15 @@ Current supported features:
      * How many runs each team has and their current average score
   * Track Card Requests
      * Who is requesting which cards and when.
+  * Track Card Donations
+     * Who Donated What (and to who it was donated)
+     * Track who donated the most today, this week, this month.
   * Auto-Accept/Reject team members based on Whitelist/Blacklist
   * Auto-Role Assignment after Auto-Accept
      
 Planned Features After Beta Ends:
   * Team Wars History (Scores/Caps)
   * Track Weekend Event Participation
-  * Track Weekly Card Donation Points
-  * Track Card Donations (i.e. who donated what)
   * Let me know if there's another feature you want
   
 Known Issues:
