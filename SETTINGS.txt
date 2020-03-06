@@ -8,6 +8,7 @@
 ;   AUTO_ROLE_ASSIGN: Assign a role after the member is auto-accepted.
 ;
 [SETTINGS]
+TW_HISTORY: True
 BRACKET_DETAILS: True
 UPGRADE_DETAILS: True
 REQUEST_DETAILS: True

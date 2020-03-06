@@ -31,9 +31,9 @@ Current supported features:
      * Track who donated the most today, this week, this month.
   * Auto-Accept/Reject team members based on Whitelist/Blacklist
   * Auto-Role Assignment after Auto-Accept
+  * Team Wars History (Scores/Caps)
      
 Planned Features After Beta Ends:
-  * Team Wars History (Scores/Caps)
   * Track Weekend Event Participation
   * Let me know if there's another feature you want
   
@@ -71,5 +71,5 @@ Also, there's no such thing as a bad feature request.
 Roadmap and Milestones:
 ============================================
    * January 2020 - Initial Commit
-   * April 2020 - Official Public Release
+   * February 2020 - Official Public Release
    * June 2020 - Android Team Manager App
