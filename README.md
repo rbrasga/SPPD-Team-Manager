@@ -32,9 +32,9 @@ Current supported features:
   * Auto-Accept/Reject team members based on Whitelist/Blacklist
   * Auto-Role Assignment after Auto-Accept
   * Team Wars History (Scores/Caps)
+  * Track Weekend Event Participation
      
 Planned Features After Beta Ends:
-  * Track Weekend Event Participation
   * Let me know if there's another feature you want
   
 Known Issues:
