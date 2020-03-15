@@ -8,8 +8,11 @@
 ;   AUTO_ROLE_ASSIGN: Assign a role after the member is auto-accepted.
 ;
 [SETTINGS]
+TW_HISTORY: True
+TEAM_EVENTS: True
 BRACKET_DETAILS: True
 UPGRADE_DETAILS: True
 REQUEST_DETAILS: True
+DONATION_DETAILS: True
 AUTO_ACCEPT_REJECT: True
 AUTO_ROLE_ASSIGN: True
