@@ -4,9 +4,11 @@ South Park Phone Destroyer Team Manager
 
 This content is in no way approved, endorsed, sponsored, or connected to South Park Digital Studios, Ubisoft, RedLynx, or associated/affiliated entities, nor are these entities responsible for this content.
 
-Current Version: v1.09 Release Candidate
+Current Version: v2.24 Release Candidate
 
-Note: When this application is no longer in beta, a minimum 2$/month donation will be required. Or I simply can't afford the operating costs to provide this service.
+For this service, I recommend a 1$ per month [donation](https://sppdreplay.net/donate) to me or your favorite charity.
+
+Or for 2$ per month, I will host your team manager instance in the cloud, running non-stop.
 
 Introduction:
 ============
@@ -14,16 +16,25 @@ This is a very basic application meant to give visibility into your team's actio
 
 Please join the discord: https://discord.gg/m95hg3S
 
-Setup:
-  * No setup.
-  * Input the ANDROID username/password of a member on the team you wish you manage.
-  * View it on the [SPPD Sim Website](http://sppdreplay.ddns.net:8000) after linking an SPPD account of a member on the team.
+Windows Setup:
+  * Download the Team Manager executable and settings files.
+  * Input the ANDROID email/password of a google play account of a member on the team you wish you manage.
+  * View it on the [SPPD Replay Website](https://sppdreplay.net) after linking an SPPD account of a member on the team.
+  
+Cloud Setup:
+  * Contact me for the IP address of the SPPD Team Manager Linux Server in the cloud
+    * Do not share your password with me (or anyone).
+  * SSH to that server (using Putty on Windows OR Terminal on Mac)
+  * Input your Android account's email/password
+  * Let me know when you've done this, and I will bring the google-encrypted token into the SPPD Team Manager Cloud Instance.
+  * Try it out for a week - if you like, donate 2$ per month.
 
 Current supported features:
   * Track Team War Upgrade Spending
      * who spends where
   * Track Team War Bracket Details
      * How many runs each team has and their current average score
+  * Track Team Wars History (Scores/Caps)
   * Track Card Requests
      * Who is requesting which cards and when.
   * Track Card Donations
@@ -31,10 +42,9 @@ Current supported features:
      * Track who donated the most today, this week, this month.
   * Auto-Accept/Reject team members based on Whitelist/Blacklist
   * Auto-Role Assignment after Auto-Accept
-  * Team Wars History (Scores/Caps)
   * Track Weekend Event Participation
      
-Planned Features After Beta Ends:
+Planned Features:
   * Let me know if there's another feature you want
   
 Known Issues:
@@ -72,4 +82,4 @@ Roadmap and Milestones:
 ============================================
    * January 2020 - Initial Commit
    * February 2020 - Official Public Release
-   * June 2020 - Android Team Manager App
+   * June 2020 - Cloud Team Manager for 2$ per month
