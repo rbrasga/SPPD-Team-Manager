@@ -22,12 +22,7 @@ Windows Setup:
   * View it on the [SPPD Replay Website](https://sppdreplay.net) after linking an SPPD account of a member on the team.
   
 Cloud Setup:
-  * Contact me for the IP address of the SPPD Team Manager Linux Server in the cloud
-    * Do not share your password with me (or anyone).
-  * SSH to that server (using Putty on Windows OR Terminal on Mac)
-  * Input your Android account's email/password
-  * Let me know when you've done this, and I will bring the google-encrypted token into the SPPD Team Manager Cloud Instance.
-  * Try it out for a week - if you like, donate 2$ per month.
+  * Log in through: https://sppdreplay.net/teammanagercloud
 
 Current supported features:
   * Track Team War Upgrade Spending
