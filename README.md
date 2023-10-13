@@ -1,4 +1,6 @@
 # SPPD-Team-Manager
+
+**IMPORTANT: SPPD-Team-Manager is currently broken. I have no way to resolve this issue due to a recent change in the SPPD app. I apologize for the inconvenience. We had a good run, and knew it wouldn't last forever**
  
 South Park Phone Destroyer Team Manager
 
